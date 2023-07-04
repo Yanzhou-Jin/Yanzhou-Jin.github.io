@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a unconditional offer holder for the programme 'Applied Machine Learning (MSc)' of Imperial College London. I am dedicated in the field of robotics, machine learning, and computer vision. I am looking for a PhD position which is available in the year 2024.
+I am currently a unconditional offer holder for the programme 'Applied Machine Learning (MSc)' of Imperial College London. I am dedicated in the field of robotics, machine learning, and computer vision. I am looking for a PhD position which is available in the year 2024.  
 I was a student majoring in Intellectual Mechatronical Systems at the School of Mechatronical Engineering, Beijing Institute of Technology.
 
 Contact
