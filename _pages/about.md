@@ -14,7 +14,7 @@ Contact
 -----
 Email:  yanzhoujin8@gmail.com          (primary)
         yanzhou.jin23@imperial.ac.uk   (University)
-Wechat: aurora_MK
+        Wechat: aurora_MK
 
 Research Interest
 ------
