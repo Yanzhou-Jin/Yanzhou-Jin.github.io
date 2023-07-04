@@ -14,9 +14,9 @@ I was a student majoring in Intellectual Mechatronical Systems at School of Mech
  
 Contact
 -----
-Email: $~~~~~$ yanzhoujin8@gmail.com $~~~~~~~~~~~$ (primary)  
- $~~~~~~~~~~~~~~~~$ yanzhou.jin23@imperial.ac.uk $~~~$ (University)  
- Wechat: $~$ aurora_MK  
+Email:yanzhoujin8@gmail.com(primary)  
+yanzhou.jin23@imperial.ac.uk(University)  
+Wechat: aurora_MK  
 
 Research Interest
 ------
