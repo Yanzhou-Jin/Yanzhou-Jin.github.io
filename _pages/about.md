@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a unconditional offer holder for the programme 'Applied Machine Learning (MSc)' of Imperial College London. I am dedicated in the field of robotics, machine learning, and computer vision. I am looking for a PhD position which is available in the year 2024.  
-I was a student majoring in Intellectual Mechatronical Systems at the School of Mechatronical Engineering, Beijing Institute of Technology.
+I am currently a unconditional offer holder for the programme 'Applied Machine Learning (MSc)' of Imperial College London. I am dedicated in the field of robotics, machine learning, and computer vision and is looking for a PhD position which is available in the year 2024.  
 
+I was a student majoring in Intellectual Mechatronical Systems at School of Mechatronical Engineering, Beijing Institute of Technology, from 2019 to 2023, and was very fortunate to be adviced by Prof. Qing shi from School of Mechatronical Engineering, Beijing Institute of Technology.
+ 
 Contact
 -----
 Email: $~~~~~$ yanzhoujin8@gmail.com $~~~~~~~~~~~$ (primary)  
@@ -26,4 +27,5 @@ My research interests lie in the integration of machine learning and robotics, p
 Events
 ------
 06-28-2023 Our article **"Design and Optimization of a Miniature Locust-Inspired Stable Jumping Robot"**, has just been published on IEEE Xplore and will be published on the Journal **IEEE Robotics and Automation Letters** in this August. Nice work to every one in our team.  
+
 06-20-2023 I have received the Uncondition Offer for the program **Applied Machine Learning (MSc 1YFT)** at Imperial College London! I look foward to studying in London this September.
