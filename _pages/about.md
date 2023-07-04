@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanzhou Jin's personal websites"
+title: "Yanzhou Jin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
