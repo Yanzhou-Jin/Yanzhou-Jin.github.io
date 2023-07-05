@@ -1,9 +1,9 @@
 ---
-title: "DJI RoboMaster 2021 University League Competition"
-excerpt: "DJI RoboMaster 2021 University League Competition<br/><img src='/images/DJI.png'>"
+title: "Real-time image recognition based on DJI-Tello drone"
+excerpt: "Real-time image recognition based on DJI-Tello drone<br/><img src='/images/DJI.png'>"
 collection: Research
 ---
 
-**DJI RoboMaster 2021 University League Competition** 06/2021 
-* The robot team won the second prize in the league competition (Class A)
-* Mainly responsible for the mechanical design of aerial robots and the overall design of robot systems
+**Real-time image recognition based on DJI-Tello drone** 06/2021
+* Advisor: Professor Qingyi Gu
+* Mainly responsible for designing real-time visual recognition solutions for robots (YOLO and mobilenet are deployed on the Jetson nano)
