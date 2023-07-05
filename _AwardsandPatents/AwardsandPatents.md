@@ -1,6 +1,6 @@
 ---
 title: "Optimal Design and Implementation for Jump-Gliding Locomotion of a Miniature Locust-Inspired Robot"
-excerpt: ""
+excerpt: "3324"
 collection: Awards & Patents
 ---
 * National Grand Prize, The 17th “Challenge Cup” National College Students’ Science and Technology Innovation Competition
