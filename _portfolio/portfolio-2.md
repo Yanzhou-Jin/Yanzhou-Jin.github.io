@@ -1,7 +1,9 @@
 ---
-title: "500x300.png"
-excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
+title: "Miniature Leg-foot Bionic quadruped robotic rat"
+excerpt: "Miniature Leg-foot Bionic quadruped robotic rat<br/><img src='/images/little-rat.png'>"
 collection: Research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML . 
+**Miniature Leg-foot Bionic quadruped robotic rat** 09/2020 - 06/2021
+* Advisor: Professor Qing Shi, Professor Youjian Zhao
+* Robot communication mode design, mechanical structure design, appearance design, control program optimization, upper computer writing
