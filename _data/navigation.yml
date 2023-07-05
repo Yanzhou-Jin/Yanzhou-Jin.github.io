@@ -5,12 +5,15 @@ main:
 
   - title: "Publications"
     url: /publications/
+    
+  - title: "Awards & Patents"
+    url: /AwardsandPatents/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
