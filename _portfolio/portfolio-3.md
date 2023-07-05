@@ -1,6 +1,6 @@
 ---
 title: "Real-time image recognition based on DJI-Tello drone"
-excerpt: "Real-time image recognition based on DJI-Tello drone<br/><img src='/images/DJI.png'>"
+excerpt: "Real-time image recognition based on DJI-Tello drone<br/><img src='/images/DJI-Tello.png'>"
 collection: Research
 ---
 
