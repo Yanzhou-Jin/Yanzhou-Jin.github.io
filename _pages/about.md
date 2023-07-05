@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a unconditional offer holder for the programme 'Applied Machine Learning (MSc)' of Imperial College London. I am dedicated in the field of robotics, machine learning, and computer vision and is looking for a PhD position which is available in the year 2024.  
+I was a student majoring in Intellectual Mechatronical Systems at School of Mechatronical Engineering, Beijing Institute of Technology, from 2019 to 2023, and was very fortunate to be adviced by Prof. Qing shi from School of Mechatronical Engineering, Beijing Institute of Technology. I am currently a unconditional offer holder for the programme 'Applied Machine Learning (MSc)' of Imperial College London. I am dedicated in the field of robotics, machine learning, and computer vision and is looking for a PhD position which is available in the year 2024.  
 
-I was a student majoring in Intellectual Mechatronical Systems at School of Mechatronical Engineering, Beijing Institute of Technology, from 2019 to 2023, and was very fortunate to be adviced by Prof. Qing shi from School of Mechatronical Engineering, Beijing Institute of Technology.
+I am passionate in conducting researchs
+
  
 Contact
 -----
