@@ -1,6 +1,6 @@
 ---
 title: "Miniature Locust-Inspired Stable Jumping Robot"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/jump-gliding.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Jump.png'>"
 collection: Research
 ---
 
