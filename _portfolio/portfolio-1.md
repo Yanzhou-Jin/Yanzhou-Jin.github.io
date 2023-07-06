@@ -1,6 +1,6 @@
 ---
 title: "Optimal Design and Implementation for Jump-Gliding Locomotion of a Miniature Locust-Inspired Robot"
-excerpt: "A prototype of the jump-gliding robot has been construed, with the size of 20 cm in length, 6.6 cm in width, and 9 cm in height, weighing a total of 97 g.The robot can achieve jump-gliding locomotion from a high platform to the ground with a height difference of 0.5 m, the horizontal displacement between the initial and final states is 2.9 m (14.5 BL).<br/><img src='/images/jump-gliding.png'>"
+excerpt: "A prototype of the jump-gliding robot has been construed, with the size of 20 cm in length, 6.6 cm in width, and 9 cm in height, weighing a total of 97 g.The robot can achieve jump-gliding locomotion from a high platform to the ground with a height difference of 0.5 m, the horizontal displacement between the initial and final states is 2.9 m (14.5 BL).<br/><img src='/images/jump-gliding.png' style='display: block; margin: 0 auto;'/>"
 collection: Research
 ---
 
@@ -8,6 +8,7 @@ collection: Research
 * Date: 06/2021
 * Advisor: Professor Qing Shi
 * Designed and optimized the mechanical structure and the wing deploymet strategy
+* Outcomes: A conference paper, a patent and multiple awards
   
   Hybrid locomotion robots, combining various motion modes such as walking, climbing, jumping, and gliding, exhibit a significantly larger range of motion compared to traditional robots with single locomotion modes. They demonstrate excellent maneuverability and adaptability to complex environments. Among these modes, the combination of jumping and gliding (referred to as Jump-gliding), effectively enhances the movement capabilities and energy efficiency of miniature robots. However, existing miniature Jump-gliding robots face challenges such as excessive weight and interference between different locomotion modes. To address these issues, this paper proposes an optimization design and implementation of a locust-inspired miniature robot, aiming to maximize its Jump-gliding capabilities.
   Drawing inspiration from the muscular and skeletal structure of locust legs, this paper simplified the bionic linkage of the leg mechanism and optimized the self-locking mechanism and leg materials while considering the center of mass, resulting in a lightweight design for the jumping structure of the robot. Additionally, inspired by the wing structure of locusts, we introduce a folding wing bionic configuration to reduce resistance during the jumping phase and increase lift during the gliding phase, achieving a coupled leaping locomotion configuration.
