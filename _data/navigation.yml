@@ -6,9 +6,12 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Awards & Patents"
-    url: /AwardsandPatents/
+#  - title: "Awards & Patents"
+#    url: /AwardsandPatents/
 
+  - title: "Awards & Patents"
+    url: /markdown/
+    
   - title: "CV"
     url: /cv/
 
