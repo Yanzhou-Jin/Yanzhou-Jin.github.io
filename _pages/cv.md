@@ -17,21 +17,22 @@ Education
   * **CGPA:** 89.3% (3.7/4.0)
   * **IELTS Overall:** 7.5 (Listening: 8.5, Reading: 8.5, Writing: 6.5, Speaking: 6.5)
   * **Core Modules:**
-  * The Foundation of Computer Science and C Language (90%)
-  * Linear Algebra B (97%)
-  * Mechanics of Materials (92%)
-  * Fundamentals of Circuits Analysis D (97%)
-  * Engineering Software and Program Design (99%)
-  * Digital Electronics B (93%)
-  * Probability and Mathematical Statistics (91%)
-  * Foundations of Machine Learning (94%)
-  * Automatic Target Recognition Technology (86%)
-  * Signals and Systems A (98%)
-  * Principle of Automatic Control (97%)
-  * Engineering Drawing A (92%)
-  * Flight Dynamics (91%)
-  * Overall Design of Intelligent Unmanned System (91%)
-  * Optimization Theory and Application (89%)
+    * The Foundation of Computer Science and C Language (90%)
+    * Linear Algebra B (97%)
+    * Mechanics of Materials (92%)
+    * Fundamentals of Circuits Analysis D (97%)
+    * Engineering Software and Program Design (99%)
+    * Digital Electronics B (93%)
+    * Probability and Mathematical Statistics (91%)
+    * Foundations of Machine Learning (94%)
+    * Automatic Target Recognition Technology (86%)
+    * Signals and Systems A (98%)
+    * Principle of Automatic Control (97%)
+    * Engineering Drawing A (92%)
+    * Flight Dynamics (91%)
+    * Overall Design of Intelligent Unmanned System (91%)
+    * Optimization Theory and Application (89%)
+    * Graduation Project (95%)
 * **Imperial College London**, 2024
   * **Major:** Applied Machine Learning
   * **Degree:** Master of Science (expected)
@@ -58,7 +59,22 @@ Publications
   
 Awards and Patents
 ======
+**Patents:**
+* China Patent: Motion control method and system for quadruped robot CN202111401734.7
+* China Patent: Open-loop control method and system for jumping action of rat-like quadruped robot (Application Accepted)
+* China Patent: A miniature folding-wing bionic jumping and gliding integrated robot (Application Accepted)
+* China Patent: Microminiature optoelectronic bionic tactile sensors and tactile sensing methods (In progress)
 
+**Awards:**
+* National Grand Prize, The 17th “Challenge Cup” National College Students’ Science and Technology Innovation Competition
+* Provincial Second Prize, Beijing Machinery Design Innovation Competition
+* Provincial Second Prize, Beijing Internet Plus Innovation and Entrepreneurship Competition
+* Provincial Second Prize, Beijing College Students Engineering Practice and Innovation Ability Competition
+* Project approved by BIT: The Micro-Bionic Robot Design with High Obstacle Crossing (Top 10 in College Student Innovation and Entrepreneurship Training Projects)
+* Bronze Award, The 1st BIT Entrepreneurship Cup Innovation and Entrepreneurship Competition and the 13th Challenge Cup School Audition Competition: Smart Rat-Let Narrow Space No Longer Be Secretive
+* Second Prize, Mechanical Innovation Design Competition (University Level)
+* Academic Scholarship Award (Obtained for 3 years in a row, a total of 30,000 RMB)
+  
 Skills
 ======
 * Experience in mechanical structural design and robot gait optimization
