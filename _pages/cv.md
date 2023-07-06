@@ -49,7 +49,16 @@ Engineer Intern, R&D Department
 Test Engineer Intern, R&D Department
 * Participated in the testing and research and development of robot communication modules in the company’s R & D department
 * Tested the communication of wireless serial port modules such as WiFi and LoRa
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
+Awards and Patents
+======
+
 Skills
 ======
 * Experience in mechanical structural design and robot gait optimization
@@ -63,25 +72,8 @@ Skills
 * Excellent 3D modeling techniques, using Solidworks
 * ML libraries such as Pytorch, TensorFlow
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
- Talks
- ======
-   <ul>{% for post in site.talks %}
-     {% include archive-single-talk-cv.html %}
-   {% endfor %}</ul>
-  
- Teaching
- ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+Experience and leadership
 ======
 * Participated in and Completed “Introduction to Project Management Program” by the University of North Carolina 09/2022
 * Participated in the ‘2nd Four Seasons Youth Forum’ Miniature Robots Conference 10/2021
