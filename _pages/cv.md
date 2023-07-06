@@ -9,6 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Profile
+======
+I am Yanzhou Jin, a recent graduate from the School of Mechatronical Engineering at Beijing Institute of Technology, specializing in Intellectual Mechatronical Systems. Under the guidance of my professors, I have gained a strong foundation in robotics, mechatronics system design. As a passionate individual dedicated to the field of robotics, my aspiration is to harness its potential for providing valuable assistance and support to individuals with disabilities or limited mobility. By leveraging robotic technology, my goal is to bring happiness and empower these individuals to lead more independent and fulfilling lives. Currently holding an unconditional offer for the 'Applied Machine Learning (MSc)' program at Imperial College London, I am eager to explore the integration of machine learning and robotics. Imperial College London is a university renowned for its expertise in robotics and humanoid care, I am excited to conduct research and devise practical solutions for the broader challenges in this field.
+
+Skills
+======
+* Experience in mechanical structural design and robot trajectory optimization
+* Programming on embedded systems:
+  * NVIDIA Jetson Nano
+  * STM32F4
+  * STM32F1
+  * Arduino
+* Using Linux and Ubuntu operating systems
+* Good Coding Skills in C, C++, Python and Matlab
+* Excellent 3D modeling techniques, using Solidworks
+* ML libraries such as Pytorch, TensorFlow
+  
+Work experience
+======
+**Aubo Robotics** 06/2022 – 08/2022  
+Engineer Intern, R&D Department
+* Worked in the R & D Center System Engineering Department nine hours a day for nine weeks
+* Conducted research on a testing control program of the robotic arm
+* Designed a program for automatic data processing for the company
+* Found hidden dangers in the company’s robotic arm, worked with other engineers and proposed plans to improve the operation
+
+**Beijing Hitecube Co., Ltd.** 12/2021-01/2022  
+Test Engineer Intern, R&D Department
+* Participated in the testing and research and development of robot communication modules in the company’s R & D department
+* Tested the communication of wireless serial port modules such as WiFi and LoRa
+
 Education
 ======
 * **Beijing Institute of Technology**, 2023
@@ -37,20 +68,6 @@ Education
   * **Major:** Applied Machine Learning
   * **Degree:** Master of Science (expected)
 
-Work experience
-======
-**Aubo Robotics** 06/2022 – 08/2022  
-Engineer Intern, R&D Department
-* Worked in the R & D Center System Engineering Department nine hours a day for nine weeks
-* Conducted research on a testing control program of the robotic arm
-* Designed a program for automatic data processing for the company
-* Found hidden dangers in the company’s robotic arm, worked with other engineers and proposed plans to improve the operation
-
-**Beijing Hitecube Co., Ltd.** 12/2021-01/2022  
-Test Engineer Intern, R&D Department
-* Participated in the testing and research and development of robot communication modules in the company’s R & D department
-* Tested the communication of wireless serial port modules such as WiFi and LoRa
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -74,22 +91,8 @@ Awards and Patents
 * Bronze Award, The 1st BIT Entrepreneurship Cup Innovation and Entrepreneurship Competition and the 13th Challenge Cup School Audition Competition: Smart Rat-Let Narrow Space No Longer Be Secretive
 * Second Prize, Mechanical Innovation Design Competition (University Level)
 * Academic Scholarship Award (Obtained for 3 years in a row, a total of 30,000 RMB)
-  
-Skills
-======
-* Experience in mechanical structural design and robot gait optimization
-* Programming on embedded systems:
-  * NVIDIA Jetson Nano
-  * STM32F4
-  * STM32F1
-  * Arduino
-* Using Linux and Ubuntu operating systems
-* Good Coding Skills in C, C++, Python and Matlab
-* Excellent 3D modeling techniques, using Solidworks
-* ML libraries such as Pytorch, TensorFlow
 
-
-Experience and leadership
+Activities and leadership
 ======
 * Participated in and Completed “Introduction to Project Management Program” by the University of North Carolina 09/2022
 * Participated in the ‘2nd Four Seasons Youth Forum’ Miniature Robots Conference 10/2021
