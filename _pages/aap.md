@@ -1,7 +1,7 @@
 ---
 title: "Optimal Design and Implementation for Jump-Gliding Locomotion of a Miniature Locust-Inspired Robot"
-excerpt: "3324"
-collection: Awards & Patents112
+excerpt: ""
+collection: Awards & Patents
 ---
 **Patents:**
 * China Patent: Motion control method and system for quadruped robot CN202111401734.7
