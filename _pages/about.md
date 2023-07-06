@@ -29,5 +29,5 @@ My research interests lie in the integration of machine learning and robotics, p
 Events
 ------
 * 06-28-2023 Our article **"Design and Optimization of a Miniature Locust-Inspired Stable Jumping Robot"**, has just been published on IEEE Xplore and will be published on the Journal **IEEE Robotics and Automation Letters** in this August. Nice work to every one in our team.
-* 06-20-2023 I have received the Uncondition Offer for the program **Applied Machine Learning (MSc 1YFT)** at Imperial College London! I look foward to studying in London this September.
-* 04-13-2023 Our article **Locust-Inspired Timing Strategy for Wing Deployment in Jump-Fly Robots** is in progress. Finger cross for the paper's acceptance!
+* 06-20-2023 I have received the Unconditional Offer for the program **Applied Machine Learning (MSc 1YFT)** at Imperial College London! I look foward to studying in London this September.
+* 04-13-2023 Our article **Locust-Inspired Timing Strategy for Wing Deployment in Jump-Fly Robots** is in progress. Fingers crossed for the paper's acceptance!
