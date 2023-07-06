@@ -1,6 +1,6 @@
 ---
 title: "Miniature Locust-Inspired Stable Jumping Robot"
-excerpt: "We developed a miniature locust-inspired jumping robot, which has a body length of 10 cm and weight of 60 g. The robot achieved a jump height of 3 BLs (30 cm) and a jump distance of 7 BLs (70 cm).<div align=center><img src='/images/Jump.png'></div>"
+excerpt: "We developed a miniature locust-inspired jumping robot, which has a body length of 10 cm and weight of 60 g. The robot achieved a jump height of 3 BLs (30 cm) and a jump distance of 7 BLs (70 cm).<br/><div align=center><img src='/images/Jump.png'/>"
 collection: Research
 ---
 
