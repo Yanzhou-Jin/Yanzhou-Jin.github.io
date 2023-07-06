@@ -11,3 +11,4 @@ collection: Research
 * Outcomes： 2 patents and mutiple awards.
 
 Legged robots are very promising for use in real world applications, but their operation in narrow spaces is still challenging. One solution for enhancing their environmental adapt ability is to design a small-sized biomimetic robot capable of performing multiple motions. By capturing a decent representation of an actual rat (rattus norvegicus), we proposed a smaller quadruped robotic rat from previous research (small-sized quadruped robotic rat (SQuRo)), which includes four limbs with 8 Degree of Freedom (DoF), and can be remote controled by upper computer. The robot was designed with a compact and narrow body (wide: 4.88cm) and smaller weight (160g). The robot can adapt unstructred terrians, including sand, mud, grass, continuous ramp and narrow gap. 
+<div align=center><img img src='/images/little-rat.png'/></div>
