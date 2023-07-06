@@ -10,7 +10,7 @@ main:
 #    url: /AwardsandPatents/
 
   - title: "Awards & Patents"
-    url: /markdown/
+    url: /aap/
     
   - title: "CV"
     url: /cv/
