@@ -78,7 +78,7 @@ Awards and Patents
 ======
 **Patents:**
 * China Patent: Motion control method and system for quadruped robot CN202111401734.7
-* China Patent: Open-loop control method and system for jumping action of rat-like quadruped robot (Application Accepted)
+* China Patent: Open-loop control method and system for jumping action of rat-like quadruped robot CN202210491369.1
 * China Patent: A miniature folding-wing bionic jumping and gliding integrated robot (Application Accepted)
 * China Patent: Microminiature optoelectronic bionic tactile sensors and tactile sensing methods (In progress)
 
