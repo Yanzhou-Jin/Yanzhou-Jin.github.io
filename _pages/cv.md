@@ -96,5 +96,5 @@ Activities and leadership
 ======
 * Participated in and Completed “Introduction to Project Management Program” by the University of North Carolina 09/2022
 * Participated in the ‘2nd Four Seasons Youth Forum’ Miniature Robots Conference 10/2021
-* Participated in and Completed “Introduction to MATLAB for Engineers” by the Universityof North Carolina 09/2021
+* Participated in and Completed “Introduction to MATLAB for Engineers” by the University of North Carolina 09/2021
 * Chief of the Aerial Robot Mechanical Group of the Robot Team of BIT 09/2020-06/2021
