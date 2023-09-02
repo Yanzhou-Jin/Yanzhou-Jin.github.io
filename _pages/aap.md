@@ -10,7 +10,7 @@ author_profile: true
 * China Patent: Microminiature optoelectronic bionic tactile sensors and tactile sensing methods (In progress)
 
 **Awards:**
-* **Best Paper in Robotics**, 2023 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2023)
+* **Best Paper in Robotics**, 2023 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2023) 
 * **National Grand Prize**, The 17th “Challenge Cup” National College Students’ Science and Technology Innovation Competition
 * **Provincial Second Prize**, Beijing Machinery Design Innovation Competition
 * **Provincial Second Prize**, Beijing Internet Plus Innovation and Entrepreneurship Competition
