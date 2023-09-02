@@ -10,10 +10,11 @@ author_profile: true
 * China Patent: Microminiature optoelectronic bionic tactile sensors and tactile sensing methods (In progress)
 
 **Awards:**
-* National Grand Prize, The 17th “Challenge Cup” National College Students’ Science and Technology Innovation Competition
-* Provincial Second Prize, Beijing Machinery Design Innovation Competition
-* Provincial Second Prize, Beijing Internet Plus Innovation and Entrepreneurship Competition
-* Provincial Second Prize, Beijing College Students Engineering Practice and Innovation Ability Competition
+* **Best Paper in Robotics**, 2023 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2023)
+* **National Grand Prize**, The 17th “Challenge Cup” National College Students’ Science and Technology Innovation Competition
+* **Provincial Second Prize**, Beijing Machinery Design Innovation Competition
+* **Provincial Second Prize**, Beijing Internet Plus Innovation and Entrepreneurship Competition
+* **Provincial Second Prize**, Beijing College Students Engineering Practice and Innovation Ability Competition
 * Project approved by BIT: The Micro-Bionic Robot Design with High Obstacle Crossing (Top 10 in College Student Innovation and Entrepreneurship Training Projects)
 * Bronze Award, The 1st BIT Entrepreneurship Cup Innovation and Entrepreneurship Competition and the 13th Challenge Cup School Audition Competition: Smart Rat-Let Narrow Space No Longer Be Secretive
 * Second Prize, Mechanical Innovation Design Competition (University Level)
