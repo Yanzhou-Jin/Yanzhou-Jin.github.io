@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Profile
 ======
-I am Yanzhou Jin, a recent graduate from the School of Mechatronical Engineering at Beijing Institute of Technology, specializing in Intellectual Mechatronical Systems. Under the guidance of my professors, I have gained a strong foundation in robotics, mechatronics system design. As a passionate individual dedicated to the field of robotics, my aspiration is to harness its potential for providing valuable assistance and support to individuals with disabilities or limited mobility. By leveraging robotic technology, my goal is to bring happiness and empower these individuals to lead more independent and fulfilling lives. Currently holding an unconditional offer for the 'Applied Machine Learning (MSc)' program at Imperial College London, I am eager to explore the integration of machine learning and robotics. Imperial College London is a university renowned for its expertise in robotics and humanoid care, I am excited to conduct research and devise practical solutions for the broader challenges in this field.
+I am Yanzhou Jin, a postgraduate student from the Department of Electrical and Electronic Engineering at Imperial College London, Majoring in Applied Machine Learning. I obtained my Bachelor’s degree in the department of Mechatronical Engineering at Beijing Institute of Technology, specializing in Intellectual Mechatronical Systems. By leveraging robotic technology, my goal is to bring happiness and empower disabled individuals to lead more independent and fulfilling lives. Currently, my primary objective is to achieve this goal by applying my knowledge and skills in the field.
 
 Skills
 ======
