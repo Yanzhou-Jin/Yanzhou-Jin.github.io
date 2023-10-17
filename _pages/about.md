@@ -12,7 +12,7 @@ I am currently pursuing a master’s degree in the Department of Electrical and 
 
 I am passionate about robotics, including mechatronics design, machine learning, and computer vision. My expertise includes Robotic Platform Design, trajectory analysis of mobile robots, embedded system programming and implementation of research tools. I have good team management skills and enjoy teamwork. Besides, I am good at project management and scheduling. 
 
-Currently, I’m seeking opportunities that will allow me to broaden my experience, and **In the academic year 2024, I am seeking a PhD position in Robotics or other related field.**  
+Currently, I’m seeking opportunities that will allow me to broaden my experience, and **In the academic year 2024, I am seeking a PhD position in Robotics or other related field.** 
  
 Contact
 -----
